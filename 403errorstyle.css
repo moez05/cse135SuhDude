@@ -1,0 +1,23 @@
+header {
+    z-index: 10;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    clear: both;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: bold;
+    background: #559cbe;
+    font-size: 32pt;
+}
+
+h1 {
+  font-size: 28pt;
+  padding-left: 120px;
+}
+
+p {
+  font-size: 28pt;
+  padding-left: 120px;
+}

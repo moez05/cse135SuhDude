@@ -1,0 +1,31 @@
+header {
+    z-index: 10;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    clear: both;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: bold;
+    background: #559cbe;
+    font-size: 32pt;
+}
+
+nav {
+    font-size: 20pt;
+    text-align: center;
+    font-weight: normal;
+
+
+}
+nav * {
+    padding-right: 90px;
+    padding-left: 90px;
+    display: inline-block;
+}
+
+
+a:hover {
+    color: green;
+}
